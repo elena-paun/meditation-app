@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/meditation-app/static/css/main.e580daae.chunk.css",
+    "main.js": "/meditation-app/static/js/main.af08ca42.chunk.js",
+    "main.js.map": "/meditation-app/static/js/main.af08ca42.chunk.js.map",
+    "runtime-main.js": "/meditation-app/static/js/runtime-main.2d676833.js",
+    "runtime-main.js.map": "/meditation-app/static/js/runtime-main.2d676833.js.map",
+    "static/js/2.3a34e5b0.chunk.js": "/meditation-app/static/js/2.3a34e5b0.chunk.js",
+    "static/js/2.3a34e5b0.chunk.js.map": "/meditation-app/static/js/2.3a34e5b0.chunk.js.map",
+    "index.html": "/meditation-app/index.html",
+    "precache-manifest.abd5c256cd1e6fd350e156c0b51e603c.js": "/meditation-app/precache-manifest.abd5c256cd1e6fd350e156c0b51e603c.js",
+    "service-worker.js": "/meditation-app/service-worker.js",
+    "static/css/main.e580daae.chunk.css.map": "/meditation-app/static/css/main.e580daae.chunk.css.map",
+    "static/js/2.3a34e5b0.chunk.js.LICENSE.txt": "/meditation-app/static/js/2.3a34e5b0.chunk.js.LICENSE.txt",
+    "static/media/arrow_button.png": "/meditation-app/static/media/arrow_button.177fcbaf.png",
+    "static/media/background.png": "/meditation-app/static/media/background.bd057b9d.png",
+    "static/media/background2.png": "/meditation-app/static/media/background2.4bd3252c.png",
+    "static/media/background3.png": "/meditation-app/static/media/background3.cc76b3d5.png",
+    "static/media/play.svg": "/meditation-app/static/media/play.c77444d9.svg",
+    "static/media/title.png": "/meditation-app/static/media/title.58eedc54.png",
+    "static/media/woodland.png": "/meditation-app/static/media/woodland.e8719865.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d676833.js",
+    "static/js/2.3a34e5b0.chunk.js",
+    "static/css/main.e580daae.chunk.css",
+    "static/js/main.af08ca42.chunk.js"
+  ]
+}
